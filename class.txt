@@ -1,5 +1,5 @@
 public Class {
-	public static final Short id;
+	public static final Short newId;
 	
 	public static final String str2;	
 	
